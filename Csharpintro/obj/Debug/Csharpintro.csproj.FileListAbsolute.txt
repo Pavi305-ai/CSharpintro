@@ -1,0 +1,7 @@
+C:\Users\Hi\source\repos\Csharpintro\Csharpintro\obj\Debug\Csharpintro.csproj.AssemblyReference.cache
+C:\Users\Hi\source\repos\Csharpintro\Csharpintro\obj\Debug\Csharpintro.csproj.CoreCompileInputs.cache
+C:\Users\Hi\source\repos\Csharpintro\Csharpintro\bin\Debug\Csharpintro.exe.config
+C:\Users\Hi\source\repos\Csharpintro\Csharpintro\bin\Debug\Csharpintro.exe
+C:\Users\Hi\source\repos\Csharpintro\Csharpintro\bin\Debug\Csharpintro.pdb
+C:\Users\Hi\source\repos\Csharpintro\Csharpintro\obj\Debug\Csharpintro.exe
+C:\Users\Hi\source\repos\Csharpintro\Csharpintro\obj\Debug\Csharpintro.pdb
